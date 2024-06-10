@@ -22,7 +22,7 @@ For the other models, we generate the description-based lure prompts using the w
 <img src=./image/example_gpt4website_generatelure.png width=85% />
 </div>
 
-Our generated lure prompts can be found at [coming soon...]
+Our generated lure prompts can be found at the folder "./generated_lure_prompts"
 
 
 ## 🧰Generating Images
@@ -31,7 +31,7 @@ For white-box model:
 
 ```bash
 python generate_images_from_lurefile.py --arch sdxl --char spiderman50 \
---negative_prompt "Spider-Man" --prompt_file_name ./spiderman50_generated_prompts.txt
+--negative_prompt "Spider-Man" --prompt_file_name ./generated_lure_prompts/max_50_tokens/spiderman50_generated_prompts.txt
 ```
 
 For black-box model such as website-only model, we generate the images directly via the website:
