@@ -1,6 +1,6 @@
 # Visual Generative AI IP Infringement
 
-This repository is the code and data for "Evaluating and Mitigating IP Infringement in Visual Generative AI".
+This repository is the code and data for ["Evaluating and Mitigating IP Infringement in Visual Generative AI"](https://arxiv.org/pdf/2406.04662v1).
 
 
 <!-- ## 🔬Environment
@@ -51,7 +51,20 @@ DALL-E 3 Microsoft Designer Website:
 <img src=./image/example_dalle3microsoftdesigner_generateimage.png width=85% />
 </div>
 
-Our generated images can be found at [coming soon...]
+Our generated images can be found at https://drive.google.com/drive/folders/1rh1CGywVFvdyy_SdiSwF8EoHoKnI7Dda?usp=sharing
 
 ## ⚙Mitigating IP Infringement
 Coming soon.
+
+## 🤝Cite this work
+You are encouraged to cite the following papers if you use the repo for academic research.
+
+```
+@article{wang2024evaluate,
+  title={Evaluating and Mitigating IP Infringement in Visual Generative AI},
+  author={Wang, Zhenting and Chen, Chen and Sehwag Vikash and Pan, Minzhou and Lyu, Lingjuan},
+  journal={arXiv:2406.04662},
+  year={2024}
+}
+```
+
