@@ -31,7 +31,7 @@ For white-box model:
 
 ```bash
 python generate_images_from_lurefile.py --arch sdxl --char spiderman50 \
---negative_prompt "Spider-Man" --prompt_file_name ./0413_spiderman50_generated_prompts.txt
+--negative_prompt "Spider-Man" --prompt_file_name ./spiderman50_generated_prompts.txt
 ```
 
 For black-box model such as website-only model, we generate the images directly via the website:
