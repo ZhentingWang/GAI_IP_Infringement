@@ -36,9 +36,9 @@ python generate_images_from_lurefile.py --arch sdxl --char spiderman50 \
 
 For black-box model such as website-only model, we generate the images directly via the website:
 
-ChatGPT3 Website:
+ChatGPT4 Website:
 <div align="center">
-<img src=./image/example_gpt4website_generateimage.png width=85% />
+<img src=./image/example_gpt4website_generateimage.png width=60% />
 </div>
 
 Midjourney:
