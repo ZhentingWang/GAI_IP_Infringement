@@ -1,4 +1,4 @@
-# Visual Generative AI IP Infringement
+# AIGC IP Infringement
 
 This repository is the code and data for ["Evaluating and Mitigating IP Infringement in Visual Generative AI"](https://arxiv.org/pdf/2406.04662v1).
 
