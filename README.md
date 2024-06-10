@@ -64,8 +64,18 @@ Midjourney:
 
 DALL-E 3 Microsoft Designer Website:
 <div align="center">
+<img src=./image/example_dalle3microsoftdesigner_spiderman_generateimage.png width=85% />
+</div>
+
+<div align="center">
 <img src=./image/example_dalle3microsoftdesigner_supermario_generateimage.png width=85% />
 </div>
+
+
+<div align="center">
+<img src=./image/example_dalle3microsoftdesigner_ironman_generateimage.png width=85% />
+</div>
+
 
 Our generated images can be found at https://drive.google.com/drive/folders/1rh1CGywVFvdyy_SdiSwF8EoHoKnI7Dda?usp=sharing
 
