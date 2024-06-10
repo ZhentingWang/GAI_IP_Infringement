@@ -51,12 +51,20 @@ ChatGPT4 Website:
 
 Midjourney:
 <div align="center">
-<img src=./image/example_midjourney_generateimage.png width=85% />
+<img src=./image/example_midjourney_spiderman_generateimage.png width=85% />
+</div>
+
+<div align="center">
+<img src=./image/example_midjourney_supermario_generateimage.png width=85% />
+</div>
+
+<div align="center">
+<img src=./image/example_midjourney_ironman_generateimage.png width=85% />
 </div>
 
 DALL-E 3 Microsoft Designer Website:
 <div align="center">
-<img src=./image/example_dalle3microsoftdesigner_generateimage.png width=85% />
+<img src=./image/example_dalle3microsoftdesigner_supermario_generateimage.png width=85% />
 </div>
 
 Our generated images can be found at https://drive.google.com/drive/folders/1rh1CGywVFvdyy_SdiSwF8EoHoKnI7Dda?usp=sharing
