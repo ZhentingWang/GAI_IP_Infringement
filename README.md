@@ -38,7 +38,15 @@ For black-box model such as website-only model, we generate the images directly 
 
 ChatGPT4 Website:
 <div align="center">
-<img src=./image/example_gpt4website_generateimage.png width=60% />
+<img src=./image/example_gpt4website_spiderman_generateimage.png width=50% />
+</div>
+
+<div align="center">
+<img src=./image/example_gpt4website_supermario_generateimage.png width=50% />
+</div>
+
+<div align="center">
+<img src=./image/example_gpt4website_ironman_generateimage.png width=50% />
 </div>
 
 Midjourney:
