@@ -31,7 +31,7 @@ For white-box model:
 
 ```bash
 python generate_images_from_lurefile.py --arch sdxl --char spiderman50 \
---negative_prompt "Spider-Man" --prompt_file_name ./generated_lure_prompts/max_50_tokens/spiderman50_generated_prompts.txt
+--prompt_file_name ./generated_lure_prompts/max_50_tokens/spiderman50_generated_prompts.txt
 ```
 
 For black-box model such as website-only model, we generate the images directly via the website:
@@ -80,7 +80,16 @@ DALL-E 3 Microsoft Designer Website:
 Our generated images can be found at https://drive.google.com/drive/folders/1rh1CGywVFvdyy_SdiSwF8EoHoKnI7Dda?usp=sharing
 
 ## ⚙Mitigating IP Infringement
-Coming soon.
+
+```bash
+python generate_images_from_lurefile.py --arch sdxl --char spiderman50 \
+--negative_prompt "Spider-Man" --prompt_file_name ./generated_lure_prompts/max_50_tokens/spiderman50_generated_prompts.txt
+```
+
+```bash
+python -u cal_clipscore.py --images_dir_name ./spiderman50_sdxl_generated_imgs/ \
+--prompt_file_name ./generated_lure_prompts/max_50_tokens/spiderman50_generated_prompts.txt
+```
 
 ## 🤝Cite this work
 You are encouraged to cite the following papers if you use the repo for academic research.
